@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_by_city">Search weather by city name</string>
+    <string name="search">Search</string>
+    <string name="humidity">Humidity \n %1$s</string>
+    <string name="wind">Wind \n %1$s</string>
+    <string name="real_feel">Real Feel\n %1$s</string>
+    <string name="check_forecast_weather">Check forecast weather</string>
+    <string name="todo">todo</string>
+    <string name="weather_app">Weather App</string>
+
+</resources>
